@@ -11,3 +11,13 @@ class Solution {
         throw new IllegalArgumentException("No two sum result.");
     }
 }
+
+/**
+* Run Code Status: Finished
+* Attention:
+*   1. new HashMap();
+*   2. numbers.length, no();
+*   3. IllegalArgumentException, Argument not Arguement;
+*   4. "and you may not use the same element twice." -> && map.get(y)!=i
+*1st Run Date: Sep 25th, 2017.
+*/
